@@ -6,7 +6,7 @@ public class Defa {
    int   i=5;
       while(i>0)
       {
-        System.out.println("meloş");
+        System.out.println("hello java");
          i=i-1;   
       }
     }   
