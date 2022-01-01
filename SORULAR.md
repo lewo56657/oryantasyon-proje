@@ -30,5 +30,5 @@ Kullanıcı tarafından girilen bir sayının basamak sever sayı olup olmadığ
 9 )  Yılın Günleri :  Kullanıcıdan 1 ile 365 arasında bir tam sayı girmesini isteyiniz. Girilen sayının yılın hangi günü olduğunu ekrana yazdıran kodu giriniz.
 
 
- 10 )   Sayı Bulma :  Kullanıcının girdiği bir sayıyı, bilgisayarın  rastgele ürettiği bir sayı ile karşılaştıran kodu yazınız. Sayı küçük ise    " sayı küçük "       , sayı büyük ise     " sayı büyük " , ve sayı eşit olduğunda  ekrana        " buldunuz"       yazdırması istenmektedir.
+ 10 )   Rastgele Sayı Bulma :  Kullanıcının girdiği bir sayıyı, bilgisayarın  rastgele ürettiği bir sayı ile karşılaştıran kodu yazınız. Sayı küçük ise    " sayı küçük "       , sayı büyük ise     " sayı büyük " , ve sayı eşit olduğunda  ekrana        " buldunuz"       yazdırması istenmektedir.
  
